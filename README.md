@@ -14,9 +14,7 @@ A modern, responsive, single-page CV website designed and developed for the **Hy
 
 ## 👤 User Profile (User Persona)
 
-To build an effective personal website, the target end-user was defined prior to design and development.
-
-### **User Persona: Sarah Jenkins (Tech Recruiter / Hiring Manager)**
+### **Sarah Jenkins (Tech Recruiter / Hiring Manager)**
 * **Role:** Senior IT Recruiter at a Tech Consultancy / Software Studio.
 * **Goal:** Quickly student candidates for part-time, weekend, or internship developer positions.
 * **Needs & Expectations:**
