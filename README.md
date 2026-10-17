@@ -29,8 +29,6 @@ To build an effective personal website, the target end-user was defined prior to
 
 ## 🏗️ Information Architecture
 
-*Note: This section contains more than 200 words explaining the layout and content distribution.*
-
 The information architecture of this single-page CV website is organized into a clean, two-column asymmetrical layout designed to optimize reading flow and prioritize key information for recruiters. The layout split follows a **40% (left) / 60% (right)** proportion across three major horizontal rows, anchored by a prominent header topbar at the top of the page.
 
 1. **Header Section (`.topbar`):** Placed at the very top, this section serves as the initial visual focal point. It contains a high-resolution circular profile photo overlapping the left side and a bold header on the right displaying the candidate’s full name (*Harrison Vance*) and current status (*Computer Science student*).
@@ -52,8 +50,6 @@ This deliberate separation ensures that quick reference data remains structured 
 ---
 
 ## 🎨 Visual Design Decisions
-
-*Note: This section contains more than 200 words describing visual aesthetics, colors, typography, and responsiveness.*
 
 The visual design strategy focuses on creating a distinctive, modern, and tech-oriented appearance while maintaining a high level of legibility and professional rigor.
 
