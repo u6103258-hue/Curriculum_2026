@@ -73,8 +73,15 @@ The visual design strategy focuses on creating a distinctive and modern appearan
 
 ```text
 .
-├── index.html        # Main HTML structure with semantic tags and links
-├── CV.css            # Custom CSS stylesheet (organized by section)
-├── README.md         # Documentation file
-└── assets / images   # Image resources (Harrison.jpeg, Phone.png, Email.png, GPS.png, flags)
+├── index.html        # Main HTML structure with semantic tags and interactive links
+├── CV.css            # Custom CSS stylesheet (organized by thematic blocks)
+├── README.md         # Full project documentation and rubric details
+└── assets/           # Media and image resources
+    ├── Harrison.jpeg
+    ├── Email.png
+    ├── GPS.png
+    ├── Phone.png
+    ├── Germany.png
+    ├── Spain.png
+    └── Uk.png
 ```
