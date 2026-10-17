@@ -1,0 +1,283 @@
+
+
+
+/* ---------------------------GENERAL SETTINGS----------------------------- */
+
+/* Box-sizing reset for all HTML elements */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* background gradient and default typography */
+body {
+    background: linear-gradient(to right, #8190c7 40%, #dedede 40%);
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Horizontal line separator between sections */
+hr {
+    border: none;                     
+    border-top: 2px solid #242e5a;    
+    margin: 30px auto;            
+    width: 95%;                      
+    display: block;
+}
+
+
+/* Flexbox rows for .content1, .content2, and .content3 */
+.content1, .content2, .content3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+/* Left column width (40% blue side) */
+.contact, .subcontent2, .skills {
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* Right column width (60% gray side) */
+.aboutme, .workexp, .academicinfo {
+    width: 60%;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* Common title style for all section headers */
+.aboutme h2, .moreinfo h2, .lenguages h2, .workexp h2, .academicinfo h2, .skills h2 {
+    font-size: 20px;
+    color: white;
+    border-radius: 40px;
+    background-color: #293063;
+    text-align: center;
+    font-weight: bold;
+    padding: 12px 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 3px solid black;
+}
+
+/* Common text formatting for paragraphs and lists on the right column */
+.aboutme p, .workexp p, .workexp ul, .academicinfo p {
+    font-size: 15px;
+    line-height: 1.6;
+    text-align: justify;
+    color: #111;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+
+/* ---------------------------TOPBAR----------------------------- */
+
+/* Topbar container */
+.topbar {
+    background-color: #293063;
+    display: flex;
+    align-items: center;
+    height: 160px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 60px;
+    color: white;
+    position: relative;
+    border-radius: 40px;
+    border: 3px solid black;
+}
+
+/* Profile image inside topbar */
+.topbar img {
+    border-radius: 100%;
+    border: 3px solid black;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+
+/* Text wrapper inside topbar */
+.textopbar {
+    text-align: center;
+    width: 60%;
+    margin-left: 40%;
+    padding: 0 20px;
+}
+
+/* Name heading style inside topbar*/
+.name {
+    font-size: 52px;
+    font-weight: bold;    
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Subtitle/Degree style inside topbar */
+.textopbar p {
+    font-size: 26px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    margin: 5px 0 0 0;
+}
+
+
+
+/* ---------------------------FIRST CONTENT----------------------------- */
+
+/* Left column: Contact section container */
+.contact {
+    margin-top: 30px;
+}
+
+/* Icons inside contact section */
+.contact img {
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+    border-radius: 100%;
+}
+
+/* Interactive link styling inside contact section */
+.contact a {
+    color: inherit;         
+    text-decoration: none;  
+}
+
+/* Hover effect for contact links */
+.contact a:hover {
+    text-decoration: underline;
+}
+
+/* Alignment for phone, email, and location items */
+.phone, .email, .location {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+
+
+/* ---------------------------SECOND CONTENT----------------------------- */
+
+/* Wrapper for left-column elements */
+.subcontent2 {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Full width utility for More Info and Languages sections */
+.moreinfo, .lenguages {
+    width: 100%;
+}
+
+/* More Information list text alignment */
+.moreinfo .text {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-left: 100px;
+}
+
+/* Flag icons inside Languages section */
+.lenguages img {
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+    border-radius: 100%;
+}
+
+/* Alignment for individual language items */
+.spanish, .english, .german {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+
+
+/* ---------------------------THIRD CONTENT----------------------------- */
+
+/* Flex layout for skill rows */
+.skills .text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* styles for individual tech skills */
+.js, .sql, .python, .html5, .nodejs {
+    font-size: 15px;
+    border: 1px solid #293063;
+    background-color: #5362CF;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+
+/* ---------------------------MEDIA QUERY (RESPONSIVE DESING)----------------------------- */
+
+@media (max-width: 850px) {
+    body {
+        background: #dedede;
+    }
+
+    .topbar {
+        flex-direction: column;
+        height: auto;
+        padding: 30px 20px;
+        margin-top: 90px;
+    }
+
+    .topbar img {
+        position: relative;
+        left: auto;
+        top: auto;
+        transform: none;
+        margin-top: -90px;
+        margin-bottom: 15px;
+    }
+
+    .textopbar {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .content1, .content2, .content3 {
+        flex-direction: column;
+        padding: 0 15px;
+    }
+
+    .contact, .subcontent2, .skills,
+    .aboutme, .workexp, .academicinfo {
+        width: 100%;
+        padding: 0;
+    }
+}
