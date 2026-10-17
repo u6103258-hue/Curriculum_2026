@@ -6,8 +6,9 @@ A modern, responsive, single-page CV website designed and developed for the **Hy
 
 ## 🔗 Project Links
 
-* **Live Website (GitHub Pages):** [https://your-username.github.io/repository-name/](https://your-username.github.io/repository-name/)
-* **Figma Design File:** [Link to your Figma Design](https://www.figma.com/)
+* **Live Website:** [Curriculum 2027 Website]([https://www.figma.com/](https://www.figma.com/design/lEVNehjW2TPk5OqSVS2zhG/Curriculum_2027?node-id=0-1&t=PAQYIOZaJDoebO59-1))
+
+* **Figma Design File:** [Curriculum 2027 Figma proyect]([https://www.figma.com/](https://www.figma.com/design/lEVNehjW2TPk5OqSVS2zhG/Curriculum_2027?node-id=0-1&t=PAQYIOZaJDoebO59-1))
 
 ---
 
