@@ -12,7 +12,7 @@ A modern, responsive, single-page CV website designed and developed for the **Hy
 
 ---
 
-## 👤 User Profile (User Persona)
+## 👤 User Profil (User Persona)
 
 ### **Sarah Jenkins (Tech Recruiter)**
 * **Role:** Senior IT Recruiter at a Tech Consultancy / Software Studio.
