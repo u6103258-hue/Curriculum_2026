@@ -6,9 +6,9 @@ A modern, responsive, single-page CV website designed and developed for the **Hy
 
 ## 🔗 Project Links
 
-* **Live Website:** [Curriculum 2027 Website](https://u6103258-hue.github.io/Curriculum_2027/)
+* **Live Website:** [Curriculum 2026 Website](https://u6103258-hue.github.io/Curriculum_2027/)
 
-* **Figma Design Proyect:** [Curriculum 2027 Figma proyect](https://www.figma.com/design/lEVNehjW2TPk5OqSVS2zhG/Curriculum_2027?node-id=0-1&t=PAQYIOZaJDoebO59-1)
+* **Figma Design Proyect:** [Curriculum 2026 Figma proyect](https://www.figma.com/design/lEVNehjW2TPk5OqSVS2zhG/Curriculum_2027?node-id=0-1&t=PAQYIOZaJDoebO59-1)
 
 ---
 
