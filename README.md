@@ -1,6 +1,6 @@
 # Curriculum Vitae Website - Harrison Vance
 
-A modern, responsive, single-page CV website designed and developed for the **Hypermedia** course assignment. This website showcases my background, technical skills, language proficiencies, and work availability as a Computer Science student.
+This is a modern, responsive, single-page CV website that showcases a Computer Science student's background, technical skills, language proficiencies, and work availability.
 
 ---
 
