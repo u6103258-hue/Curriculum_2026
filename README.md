@@ -25,7 +25,7 @@ A modern, responsive, single-page CV website designed and developed for the **Hy
 
 ---
 
-## 🏗️ Information Architecture
+## 🏗️ Architecture Information
 
 The information architecture of this CV website is organized into a clean, two-column asymmetrical layout designed to optimize reading flow and prioritize key information for recruiters. The layout split follows a **40% (left) / 60% (right)** proportion across three horizontal rows, supported by a prominent header topbar at the top of the page.
 
@@ -59,13 +59,6 @@ The visual design strategy focuses on creating a distinctive and modern appearan
   * **Body Text:** 15px with line-height 1.6 for comfortable reading.
 
 * **Responsive Adaptation:** A media query (`@media (max-width: 850px)`) ensures full responsiveness. On mobile screens, the split background converts to a single solid neutral background, and all two-column structures collapse into a single stacked column layout with centered elements for ideal touch interaction.
-
----
-
-## 🛠️ Technologies Used and Justification
-
-* **HTML5:** Used for semantic structuring (`<meta>`, `<hr>`, `<a>`, `<ul>`, `<img>`). Interactive schemas (`mailto:`, `tel:`, and Google Maps links with `target="_blank"`) were implemented to give a better user experience.
-* **CSS3:** Custom CSS was chosen to maintain full control over the two-column gradient layout, flexbox alignment, rounded styling, and custom media query breakpoints.
 
 ---
 
