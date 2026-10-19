@@ -12,9 +12,9 @@ This is a modern, responsive, single-page CV website that showcases a Computer S
 
 ---
 
-## 👤 User Profile (User Persona)
+## 👤 User Persona
 
-### **Sarah Jenkins (Tech Recruiter)**
+### **Sarah Jenkins**
 * **Role:** Senior IT Recruiter at a Tech Consultancy / Software Studio.
 * **Goal:** Quickly student candidates for part-time, weekend, or internship developer positions.
 * **Needs and Expectations:**
@@ -25,7 +25,7 @@ This is a modern, responsive, single-page CV website that showcases a Computer S
 
 ---
 
-## 🏗️ Architecture Information
+## 🏗️ Information Architecture
 
 The information architecture of this CV website is organized into a clean, two-column asymmetrical layout designed to optimize reading flow and prioritize key information for recruiters. The layout split follows a **40% (left) / 60% (right)** proportion across three horizontal rows, supported by a prominent header topbar at the top of the page.
 
