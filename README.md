@@ -1,10 +1,10 @@
-# Curriculum Vitae Website - Harrison Vance
+# CURRICULUM VITAE WEBSITE - HARRISON VANCE
 
 This is a modern, responsive, single-page CV website that showcases a Computer Science student's background, technical skills, language proficiencies, and work availability.
 
 ---
 
-## 🔗 Project Links
+## 🔗 PROYECT LINKS
 
 * **Live Website:** [Curriculum 2026 Website](https://u6103258-hue.github.io/Curriculum_2026/)
 
@@ -12,7 +12,7 @@ This is a modern, responsive, single-page CV website that showcases a Computer S
 
 ---
 
-## 👤 User Persona
+## 👤 USER PERSONA
 
 ### **Sarah Jenkins**
 * **Role:** Senior IT Recruiter at a Tech Consultancy / Software Studio.
@@ -25,7 +25,7 @@ This is a modern, responsive, single-page CV website that showcases a Computer S
 
 ---
 
-## 🏗️ Information Architecture
+## 🏗️ INFORMATION ARCHITECTURE
 
 The information architecture of this CV website is organized into a clean, two-column asymmetrical layout designed to optimize reading flow and prioritize key information for recruiters. The layout split follows a **40% (left) / 60% (right)** proportion across three horizontal rows, supported by a prominent header topbar at the top of the page.
 
@@ -47,7 +47,7 @@ This separation ensures that quick reference data remains structured on the left
 
 ---
 
-## 🎨 Visual Design Decisions
+## 🎨 VISUAL DESIGN DECISIONS
 
 The visual design strategy focuses on creating a distinctive and modern appearance while maintaining a high level of legibility and professional style.
 
@@ -62,7 +62,7 @@ The visual design strategy focuses on creating a distinctive and modern appearan
 
 ---
 
-## 📁 Repository File Structure
+## 📁 REPOSITORY FILE STRUCTURE
 
 ```text
 .
