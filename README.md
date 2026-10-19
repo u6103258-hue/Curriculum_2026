@@ -59,5 +59,3 @@ The visual design strategy focuses on creating a distinctive and modern appearan
   * **Body Text:** 15px with line-height 1.6 for comfortable reading.
 
 * **Responsive Adaptation:** A media query (`@media (max-width: 850px)`) ensures full responsiveness. On mobile screens, the split background converts to a single solid neutral background, and all two-column structures collapse into a single stacked column layout with centered elements for ideal touch interaction.
-
-```
