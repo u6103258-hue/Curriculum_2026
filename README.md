@@ -60,21 +60,4 @@ The visual design strategy focuses on creating a distinctive and modern appearan
 
 * **Responsive Adaptation:** A media query (`@media (max-width: 850px)`) ensures full responsiveness. On mobile screens, the split background converts to a single solid neutral background, and all two-column structures collapse into a single stacked column layout with centered elements for ideal touch interaction.
 
----
-
-## 📁 REPOSITORY FILE STRUCTURE
-
-```text
-.
-├── index.html        # Main HTML structure with semantic tags and interactive links
-├── CV.css            # Custom CSS stylesheet (organized by thematic blocks)
-├── README.md         # Full project documentation and rubric details
-└── assets/           # Media and image resources
-    ├── Harrison.jpeg
-    ├── Email.png
-    ├── GPS.png
-    ├── Phone.png
-    ├── Germany.png
-    ├── Spain.png
-    └── Uk.png
 ```
